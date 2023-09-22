@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.3.1.3'
+VERSION = '1.3.1.4'
 DESCRIPTION = 'Automating Data Preprocessing'
 LONGDESCRIPTION = """
 # Automating Data Preprocessing
@@ -41,6 +41,7 @@ Now everything you will be doing will be in console (run)
 - dropping duplicate
 
 ## Licence
+
 MIT License
 
 Copyright (c) 2023 Syed Syab Ahmad
