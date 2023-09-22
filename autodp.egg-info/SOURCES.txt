@@ -1,0 +1,8 @@
+setup.py
+autodp.egg-info/PKG-INFO
+autodp.egg-info/SOURCES.txt
+autodp.egg-info/dependency_links.txt
+autodp.egg-info/requires.txt
+autodp.egg-info/top_level.txt
+libname/__init__.py
+libname/main.py
